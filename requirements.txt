@@ -1,0 +1,15 @@
+stable-baselines3
+pettingzoo
+torch
+fastapi
+uvicorn
+streamlit
+pygame
+tensorboard
+pyyaml
+shimmy
+supersuit
+numpy
+matplotlib
+pandas
+scikit-learn
